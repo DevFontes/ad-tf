@@ -1,9 +1,9 @@
 variable "username" {
-  default = "administrador"
+  default = "julioesf"
 }
 
 variable "password" {
-  default = "orsi36621605@"
+  default = ""
 }
 
 variable "hostname" {
@@ -11,5 +11,5 @@ variable "hostname" {
 }
 
 variable "domain" {
-  default = "srvorsi.local"
+  default = "SRVORSI.LOCAL"
 }
